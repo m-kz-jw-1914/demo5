@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Do stuff"
 		},
 		{
@@ -13,7 +13,7 @@
 			"taskTitle": "菊地智"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "河村景一"
 		}
 	]
