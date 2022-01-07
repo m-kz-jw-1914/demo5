@@ -9,11 +9,11 @@
 			"taskTitle": "松田一将"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "菊地智"
 		},
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "河村景一"
 		}
 	]
